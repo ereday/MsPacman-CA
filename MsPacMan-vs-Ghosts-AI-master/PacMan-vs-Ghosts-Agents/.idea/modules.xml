@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MsPacman.iml" filepath="$PROJECT_DIR$/MsPacman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PacMan-vs-Ghosts/PacMan-vs-Ghosts.iml" filepath="$PROJECT_DIR$/../PacMan-vs-Ghosts/PacMan-vs-Ghosts.iml" />
+    </modules>
+  </component>
+</project>
